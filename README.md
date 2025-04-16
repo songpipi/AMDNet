@@ -14,6 +14,9 @@
 
 This is the repo for the official implementation of the AMDNet.
 <br> 
+<div>
+    <a href="http://arxiv.org/abs/2504.10920"><img src="https://img.shields.io/badge/Arxiv-2403.11150-red"/></a>
+</div>
 
 
 </div>
